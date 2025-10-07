@@ -1,3 +1,2 @@
 # NoSQL
-Nosso primeiro repositório oficial! 
-
+## Nesse artigo, vamos aprender como funciona os dados e as regras do SQL.
