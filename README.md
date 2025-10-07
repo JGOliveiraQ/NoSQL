@@ -1,2 +1,3 @@
 # NoSQL
-Meu primeiro repositório oficial!
+Nosso primeiro repositório oficial! 
+
