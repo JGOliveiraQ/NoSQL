@@ -9,3 +9,6 @@ O SQL é uma linguagem padrão que é utilizada para trabalhar com banco de dado
 ## O que são tipos de dados SQL?
 
 Em SQL, os tipos de dados são categorias que determinam o tipo de informação que cada coluna de uma tabela pode conter. Por exemplo, uma coluna pode armazenar números, textos, datas ou valores booleanos. Isso auxilia o banco de dados na organização e compreensão dos dados que você deseja armazenar.
+
+
+<img width="579" height="482" alt="Captura de tela 2025-10-07 214020" src="https://github.com/user-attachments/assets/095c2327-bc6c-4850-8fb7-6e2010cf7865" />
